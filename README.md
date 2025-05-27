@@ -73,8 +73,7 @@ Swift 5.3+
 
 SwiftUI
 
-🔐 License
-MIT License. Use it freely in your projects – just give credit! ✨
+MIT License.
 
 python
 Copy
