@@ -74,9 +74,3 @@ Swift 5.3+
 SwiftUI
 
 MIT License.
-
-python
-Copy
-Edit
-
-Let me know if you'd like to include badges (e.g. Swift version, platform support) or if you're ready to publish to GitHub and want a guide for that too.
